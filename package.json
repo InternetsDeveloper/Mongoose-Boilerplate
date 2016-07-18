@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-boilerplate",
+  "version": "1.0.0",
+  "description": "Mongoose Boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InternetsDeveloper/Mongoose-Boilerplate.git"
+  },
+  "author": "InternetsDeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InternetsDeveloper/Mongoose-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/InternetsDeveloper/Mongoose-Boilerplate#readme"
+}
