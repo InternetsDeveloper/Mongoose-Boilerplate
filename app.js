@@ -12,3 +12,7 @@ require('./db/database');
 var routes = require('./controllers/index');
 
 var app = express();
+
+//NOTE: Engine Setup / View
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'hbs');
